@@ -1,2 +1,4 @@
 # sbc-datascience-2023
-Apenas para cumprir os projetos
+Projetos de Power BI do bootcamp.
+
+Ainda em processo de melhora
